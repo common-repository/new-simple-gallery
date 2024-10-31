@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: New Simple Gallery\n"
+"POT-Creation-Date: 2019-08-20 22:51+0800\n"
+"PO-Revision-Date: 2019-08-20 22:51+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../new-simple-gallery.php:142
+msgid "No records found, please check your short code"
+msgstr ""
+
+#: ../new-simple-gallery.php:191 ../new-simple-gallery.php:192
+#, fuzzy
+msgid "New simple gallery"
+msgstr "Nowy Prosty Galeria"
+
+#: ../new-simple-gallery.php:247
+msgid "Please select and upload your image."
+msgstr ""
+
+#: ../new-simple-gallery.php:248 ../pages/image-management-add.php:35
+#: ../pages/image-management-edit.php:64
+msgid "Please enter the target link."
+msgstr ""
+
+#: ../new-simple-gallery.php:249
+msgid "Please select the target option."
+msgstr ""
+
+#: ../new-simple-gallery.php:250
+msgid "Please enter the image title."
+msgstr ""
+
+#: ../new-simple-gallery.php:251
+msgid "Please enter the display order, only number."
+msgstr ""
+
+#: ../new-simple-gallery.php:252
+msgid "Please select the display status."
+msgstr ""
+
+#: ../new-simple-gallery.php:253
+msgid "Please select the gallery type."
+msgstr ""
+
+#: ../new-simple-gallery.php:254
+msgid "Do you want to delete this record?"
+msgstr ""
+
+#: ../pages/image-management-add.php:28 ../pages/image-management-edit.php:57
+msgid "Please enter the image path."
+msgstr ""
+
+#: ../pages/image-management-add.php:67
+msgid "New image details was successfully added."
+msgstr ""
+
+#: ../pages/image-management-add.php:94 ../pages/image-management-edit.php:121
+#, fuzzy
+msgid "Click here"
+msgstr "kliknij tutaj"
+
+#: ../pages/image-management-add.php:94 ../pages/image-management-edit.php:121
+msgid "to view the details"
+msgstr ""
+
+#: ../pages/image-management-add.php:129
+#: ../pages/image-management-edit.php:156
+#: ../pages/image-management-show.php:53
+msgid "New Simple Gallery"
+msgstr "Nowy Prosty Galeria"
+
+#: ../pages/image-management-add.php:131
+msgid "Add new image details"
+msgstr ""
+
+#: ../pages/image-management-add.php:132
+msgid "Enter image path (URL)"
+msgstr ""
+
+#: ../pages/image-management-add.php:135
+#: ../pages/image-management-edit.php:162
+msgid "Select and upload your image."
+msgstr ""
+
+#: ../pages/image-management-add.php:136
+#: ../pages/image-management-edit.php:163
+msgid "Enter target link"
+msgstr ""
+
+#: ../pages/image-management-add.php:138
+#: ../pages/image-management-edit.php:165
+msgid "When someone clicks on the picture, where do you want to send them"
+msgstr ""
+
+#: ../pages/image-management-add.php:139
+#: ../pages/image-management-edit.php:166
+msgid "Select target option"
+msgstr ""
+
+#: ../pages/image-management-add.php:146
+#: ../pages/image-management-edit.php:173
+msgid "Do you want to open link in new window?"
+msgstr ""
+
+#: ../pages/image-management-add.php:147
+#: ../pages/image-management-edit.php:174
+msgid "Enter image title"
+msgstr ""
+
+#: ../pages/image-management-add.php:149
+#: ../pages/image-management-edit.php:176
+msgid "Enter image title. This will be the description of your image."
+msgstr ""
+
+#: ../pages/image-management-add.php:150
+#: ../pages/image-management-edit.php:177
+msgid "Select gallery group"
+msgstr ""
+
+#: ../pages/image-management-add.php:162
+#: ../pages/image-management-edit.php:189
+msgid "This is to group the images. Select your slideshow group."
+msgstr ""
+
+#: ../pages/image-management-add.php:163
+#: ../pages/image-management-edit.php:190
+msgid "Display status"
+msgstr ""
+
+#: ../pages/image-management-add.php:168
+#: ../pages/image-management-edit.php:195
+msgid "Do you want the picture to show in your galler?"
+msgstr ""
+
+#: ../pages/image-management-add.php:169
+#: ../pages/image-management-edit.php:196
+msgid "Display order"
+msgstr ""
+
+#: ../pages/image-management-add.php:171
+#: ../pages/image-management-edit.php:198
+msgid ""
+"What order should the picture be played in. should it come 1st, 2nd, 3rd, "
+"etc."
+msgstr ""
+
+#: ../pages/image-management-add.php:175
+#: ../pages/image-management-edit.php:202
+msgid "Submit"
+msgstr "Wyślij"
+
+#: ../pages/image-management-add.php:176
+#: ../pages/image-management-edit.php:203
+msgid "Cancel"
+msgstr ""
+
+#: ../pages/image-management-add.php:177
+#: ../pages/image-management-edit.php:204
+#: ../pages/image-management-show.php:126
+msgid "Help"
+msgstr ""
+
+#: ../pages/image-management-add.php:183
+#: ../pages/image-management-edit.php:210
+#: ../pages/image-management-show.php:129
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../pages/image-management-add.php:184
+#: ../pages/image-management-edit.php:211
+#: ../pages/image-management-show.php:130
+msgid "click here"
+msgstr "kliknij tutaj"
+
+#: ../pages/image-management-edit.php:18 ../pages/image-management-show.php:23
+msgid "Oops, selected details doesnt exist"
+msgstr ""
+
+#: ../pages/image-management-edit.php:104
+msgid "Image details was successfully updated."
+msgstr ""
+
+#: ../pages/image-management-edit.php:158
+msgid "Update image details"
+msgstr ""
+
+#: ../pages/image-management-edit.php:159
+msgid "Enter image path"
+msgstr ""
+
+#: ../pages/image-management-show.php:41
+msgid "Selected record was successfully deleted."
+msgstr ""
+
+#: ../pages/image-management-show.php:53
+#: ../pages/image-management-show.php:125
+msgid "Add New"
+msgstr ""
+
+#: ../pages/image-management-show.php:64 ../pages/image-management-show.php:74
+msgid "Title"
+msgstr ""
+
+#: ../pages/image-management-show.php:65 ../pages/image-management-show.php:75
+msgid "Group"
+msgstr ""
+
+#: ../pages/image-management-show.php:66 ../pages/image-management-show.php:76
+msgid "Image"
+msgstr ""
+
+#: ../pages/image-management-show.php:67 ../pages/image-management-show.php:77
+msgid "URL"
+msgstr ""
+
+#: ../pages/image-management-show.php:68 ../pages/image-management-show.php:78
+msgid "Order"
+msgstr ""
+
+#: ../pages/image-management-show.php:69 ../pages/image-management-show.php:79
+msgid "Display"
+msgstr ""
+
+#: ../pages/image-management-show.php:94
+msgid "Edit"
+msgstr ""
+
+#: ../pages/image-management-show.php:95
+msgid "Delete"
+msgstr ""
+
+#: ../pages/image-management-show.php:116
+msgid "No records available"
+msgstr ""
+
+#~ msgid "Gallery setting"
+#~ msgstr "Galeria Otoczenie:"
+
+#~ msgid "XML File (For widget)"
+#~ msgstr "Pliku XML (Dla widget)"
+
+#~ msgid ""
+#~ "Enter name of the XML file. XML file should available in the plugin "
+#~ "directory."
+#~ msgstr ""
+#~ "Wpisz nazwę pliku XML. Plik XML powinien dostępne w katalogu wtyczek."
+
+#~ msgid "Random"
+#~ msgstr "Losowo"
+
+#~ msgid "Random image display."
+#~ msgstr "Losowe wyświetlanie obrazu."
+
+#~ msgid "Title (For widget)"
+#~ msgstr "Tytuł (Dla widget)"
+
+#~ msgid "Enter enter widget title, Only for widget."
+#~ msgstr "Wprowadź wprowadzić widget tytuł, tylko dla widgetu."
+
+#~ msgid "Width (For widget)"
+#~ msgstr "Szerokość (Dla widget)"
+
+#~ msgid "Enter width of the gallery, Only for width. (Example: 200)"
+#~ msgstr "Wprowadź szerokość galerii, tylko dla szerokości. (Przykład: 200)"
+
+#~ msgid "Height (For widget)"
+#~ msgstr "Wysokość (Dla widget)"
+
+#~ msgid "Enter height of the gallery, Only for height. (Example: 200)"
+#~ msgstr "Wprowadź wysokość galerii, tylko do wysokości. (Przykład: 200)"
+
+#~ msgid "Pause (Global setting)"
+#~ msgstr "Pauza (ustawienie globalne)"
+
+#~ msgid "Pause between slides. (Example: 2500)"
+#~ msgstr "Pauza między slajdami. (Przykład: 2500)"
+
+#~ msgid "Fade duration (Global setting)"
+#~ msgstr "Fade czas (ustawienie globalne)"
+
+#~ msgid ""
+#~ "The duration of the fade effect when transitioning from one image to the "
+#~ "next, in milliseconds. (Example: 500)"
+#~ msgstr ""
+#~ "Czas trwania efektu zanikania przy przechodzeniu z jednego obrazu do "
+#~ "drugiego, w milisekundach. (Przykład: 500)"
+
+#~ msgid "Cycles (Global setting)"
+#~ msgstr "Cykle (ustawienie globalne)"
+
+#~ msgid ""
+#~ "The cycles option when set to 0 will cause the slideshow to rotate "
+#~ "perpetually,<br />while any number larger than 0 means it will stop after "
+#~ "N cycles. (Example: 2)"
+#~ msgstr ""
+#~ "Opcja cykle, gdy ustawiony na 0 spowoduje, że pokaz slajdów, aby obrócić "
+#~ "wiecznie, <br /> podczas gdy każda liczba większa od 0 oznacza zatrzyma "
+#~ "po N cykli. (Przykład: 2)"
+
+#~ msgid "Plugin configuration option"
+#~ msgstr "Opcja konfiguracji plugin"
+
+#~ msgid "Add the plugin in the posts or pages using short code."
+#~ msgstr "Dodaj wtyczki na stanowiskach lub stron za pomocą krótkiego kodu."
+
+#~ msgid "Add directly in to the theme using PHP code."
+#~ msgstr "Dodaj bezpośrednio do tematu z wykorzystaniem kodu PHP."
+
+#~ msgid "Drag and drop the widget to your sidebar."
+#~ msgstr "Przeciągnij i upuść widget do paska bocznego."
